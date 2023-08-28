@@ -8,6 +8,7 @@
         "json"
     ],
     "author": "jessebrault0709",
+    "repository": "https://github.com/JesseBrault0709/json-lua",
     "license": "ISC",
     "types": "./json.d.ts",
     "files": [
