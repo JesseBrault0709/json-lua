@@ -1,0 +1,17 @@
+{
+    "name": "@jessebrault0709/json-lua",
+    "version": "0.1.0",
+    "description": "A typescript-to-lua wrapper of json.lua 0.1.2 by rxi.",
+    "main": "json",
+    "keywords": [
+        "typescript-to-lua",
+        "json"
+    ],
+    "author": "jessebrault0709",
+    "license": "ISC",
+    "types": "./json.d.ts",
+    "files": [
+        "json.lua",
+        "json.d.ts"
+    ]
+}
